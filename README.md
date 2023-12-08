@@ -52,7 +52,7 @@ Install dependencies with npm
 
 ## Author
 
-[@phongduybui](https://github.com/fiona02)
+[@fiona02](https://github.com/fiona02)
 
   
 ## Feedback
