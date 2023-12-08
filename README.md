@@ -1,5 +1,5 @@
 
-# Fashion Shop v2.0
+# Fashion Shop 
 
 Modern and stylish e-commerce website
 
@@ -7,19 +7,6 @@ Modern and stylish e-commerce website
 
 
 
-## Demo
-
-:point_right: :point_right: Version 2.0 (Improved UI, UX, and more functions):
-[https://fashion-shopp.vercel.app/](https://fashion-shopp.vercel.app/)  
-https://fashion-shop-phongduybui.vercel.app/
-
-
-## Installation 
-
-Clone
-
-```bash
-git clone https://github.com/phongduybui/fashion-shop.git
 ```
 
 Install dependencies with npm
@@ -65,11 +52,11 @@ Install dependencies with npm
 
 ## Author
 
-[@phongduybui](https://github.com/phongduybui)
+[@phongduybui](https://github.com/fiona02)
 
   
 ## Feedback
 
-If you have any feedback, please reach out to [me](mailto:buiduyphong921@gmail.com)
+If you have any feedback, please reach out to [me](mailto:michfiona790@gmail.com)
 
   
